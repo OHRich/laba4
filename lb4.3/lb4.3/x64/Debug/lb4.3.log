@@ -1,0 +1,3 @@
+﻿  lb4.3.cpp
+C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba4\lb4.3\lb4.3\lb4.3.cpp(22,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lb4.3.vcxproj -> C:\Users\sushe\OneDrive\Рабочий стол\ЛиОАвИЗ\laba4\lb4.3\x64\Debug\lb4.3.exe
